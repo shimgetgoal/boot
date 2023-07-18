@@ -8,9 +8,13 @@ h1{
 }
 h2{
 
- color: rgb(159, 160, 173);
+ color: yellow;
 }
 p{
    
     color: red;
+}
+.action_page.php{
+    color: green;
+    background-color: bisque;
 }
