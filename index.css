@@ -1,5 +1,16 @@
 
-p{
+*{
     text-align: center;
-    background-color:coral;
+    background-color:black;
+}
+h1{
+    color: green;
+}
+h2{
+
+ color: rgb(159, 160, 173);
+}
+p{
+   
+    color: red;
 }
